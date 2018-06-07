@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "test": "jest"
+    "test": "jest --watchAll"
   },
   "dependencies": {
     "jest": "^23.1.0"
