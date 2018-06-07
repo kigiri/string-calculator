@@ -7,6 +7,7 @@
 - `npm install`
 - Logic is written `string-calculator.js`
 - Tests are `string-calculator.test.js` done using [Jest](https://facebook.github.io/jest/docs/en/expect.html)
+- run tests with `npm test`
 
 ### Avant de commencer
 - Faire les stories dans l’ordre
